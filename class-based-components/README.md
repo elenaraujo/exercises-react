@@ -5,7 +5,7 @@ See the code below, which creates a component called `UserForm`. Right now the `
 ### Your goal:
 * Refactor the `UserForm` to be a class-based component. It should return the exact same JSX.
 
-Remember that class-based components must:
+### Remember that class-based components must:
 
 1. Be a Javascript class
 2. Extend React.Component
