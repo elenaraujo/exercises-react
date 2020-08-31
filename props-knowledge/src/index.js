@@ -5,7 +5,7 @@ import { Alert, AlertTitle } from '@material-ui/lab';
 const App = () => {
     return (
         <div>
-            <Message header="Changes in Service" text="We just updated our privacy policy here to better service our customers. — <strong>check it out!</strong>" />
+            <Message header="Changes in Service" text="We just updated our privacy policy here to better service our customers." />
         </div>
     );
 }
