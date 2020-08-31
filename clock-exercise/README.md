@@ -11,6 +11,9 @@ The Clock class below is trying to implement a clock display that updates every 
 * Remember that you only update state by calling `setState`.
 
 ```javascript
+import React from 'react';
+import ReactDOM from 'react-dom';
+
 class Clock extends React.Component {
         componentDidMount() {
             setInterval(() => {
